@@ -1,0 +1,10 @@
+*__pycahce__*
+*.pyc
+training/football-players-detection-1
+models/best.pt
+models/last.pt
+input_videos
+runs
+training
+models/yolov8x.pt
+output_videos
